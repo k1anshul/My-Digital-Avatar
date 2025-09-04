@@ -1,0 +1,9 @@
+streamlit
+pyaudio
+google-generativeai
+python-dotenv
+asyncio
+threading
+time
+random
+audioop

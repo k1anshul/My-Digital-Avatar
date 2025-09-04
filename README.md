@@ -25,8 +25,8 @@ This project presents a cutting-edge conversational AI bot designed to act as a 
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/k1anshul/Resume_Avatar_2.git
-    cd Resume_Avatar_2
+    git clone https://github.com/k1anshul/My-Digital-Avatar.git
+    cd My-Digital-Avatar
     ```
 
 2.  **Create a virtual environment (recommended)**:

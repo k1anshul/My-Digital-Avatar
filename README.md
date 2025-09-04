@@ -1,4 +1,4 @@
-# 🎤 My Digital Avatar: Your AI Interview Companion
+# 🎤 My Digital Avatar: Your AI Companion
 
 ## ✨ Project Overview
 

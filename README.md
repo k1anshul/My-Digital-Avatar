@@ -4,6 +4,9 @@
 
 This project presents a cutting-edge conversational AI bot designed to act as a digital avatar. Imagine having a personal AI assistant that can introduce you to recruiters, discuss your professional background, highlight your skills, and share your experiences—all in a natural, real-time audio conversation! This bot is built to make a lasting impression, ensuring you're always represented at your best.
 
+<img width="934" height="508" alt="Tool_Image" src="https://github.com/user-attachments/assets/e0dded5a-8f8d-4715-a11c-2e754d6fb371" />
+
+
 ## 🚀 Features
 
 -   **Real-time Audio Conversation**: Engage in seamless, voice-to-voice interactions with the AI avatar.
@@ -60,7 +63,7 @@ This project presents a cutting-edge conversational AI bot designed to act as a 
 
 Watch a live demonstration of the Digital Avatar in action:
 
-[Presentation Video URL Here]
+[[Presentation Video URL Here]](https://drive.google.com/file/d/1si5djPo6X6dbNN8Hh5ewBJiqvZEQf0Ww/view?usp=sharing)
 
 ---
 **Developed by Anshul Khadse**

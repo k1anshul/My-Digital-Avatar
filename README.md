@@ -6,6 +6,11 @@ This project presents a cutting-edge conversational AI bot designed to act as a 
 
 <img width="934" height="508" alt="Tool_Image" src="https://github.com/user-attachments/assets/e0dded5a-8f8d-4715-a11c-2e754d6fb371" />
 
+## 📺 Presentation Video
+
+Watch a live demonstration of the Digital Avatar in action:
+
+[▶️ **Watch Demo Video**](https://drive.google.com/file/d/1si5djPo6X6dbNN8Hh5ewBJiqvZEQf0Ww/view?usp=drive_link)
 
 ## 🚀 Features
 
@@ -58,13 +63,6 @@ This project presents a cutting-edge conversational AI bot designed to act as a 
     ```
 
 2.  Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
-
-## 📺 Presentation Video
-
-Watch a live demonstration of the Digital Avatar in action:
-
-[▶️ **Watch Demo Video**](https://drive.google.com/file/d/1si5djPo6X6dbNN8Hh5ewBJiqvZEQf0Ww/view?usp=drive_link)
-
 ---
 **Developed by Anshul Khadse**
 📧 anshulkhadse2011@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/k1anshul) | 💻 [GitHub](https://github.com/k1anshul)

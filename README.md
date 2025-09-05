@@ -63,7 +63,7 @@ This project presents a cutting-edge conversational AI bot designed to act as a 
 
 Watch a live demonstration of the Digital Avatar in action:
 
-https://github.com/k1anshul/My-Digital-Avatar/blob/c77c0d99888a1d3d0b90277f4dd27427d1fe095d/Assests/Demo_Video.mp4
+https://github.com/k1anshul/Assests/Demo_Video.mp4
 
 ---
 **Developed by Anshul Khadse**
